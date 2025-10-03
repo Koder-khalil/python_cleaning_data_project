@@ -1,0 +1,246 @@
+"OrderID","CustomerID","OrderDate","ShppedDate","ShippingCost","ShipCountry","shipCity","ShippingCompany","deliveryDays","DeliveryStatus","IsDomestic"
+1000,"C001","2025-05-17","2025-07-30",-57.2545460244498,"Germany","Hamburg","Kiwilytics Goods Shipping LLC.",74,"Late","Yes"
+1001,"C002","2025-01-26","2025-07-30",320.61,"Canada","Montreal","UPS Worldwide",185,"Late","No"
+1002,"C003","2025-03-08","2025-07-30",165.17,"Canada","Vancouver","FedEx Logistics",144,"Late","No"
+1003,"C004","2025-03-24","2025-07-30",12.55,"Germany","Munich","Aramex International",128,"Late","Yes"
+1004,"C005","2025-04-15","2025-07-30",186.36,"Canada","Vancouver","FedEx Logistics",106,"Late","No"
+1005,"C006","2024-12-24","2025-07-30",74.93,"USA","New York","UPS Worldwide",218,"Late","No"
+1006,"C007","0000-00-00","2025-07-30",229.93,"USA","Los Angeles","Aramex International",0,"Unknown","No"
+1007,"C008","2024-08-10","2025-07-30",209.94,"Germany","Berlin","Aramex International",354,"Late","Yes"
+1008,"C009","2025-02-06","2025-07-30",0.0,"USA","Houston","DHL Express",174,"Late","No"
+1009,"C010","0000-00-00","2025-07-30",394.37,"USA","Chicago","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1010,"C011","2024-12-03","2025-07-30",16.05,"Germany","Unspecified","Aramex International",239,"Late","Yes"
+1011,"C012","2024-10-08","2025-07-30",391.79,"Canada","Vancouver","DHL Express",295,"Late","No"
+1012,"C013","0000-00-00","2025-07-30",284.17,"Canada","Vancouver","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1013,"C014","2025-02-04","2025-07-30",128.94,"USA","New York","DHL Express",176,"Late","No"
+1014,"C015","2024-10-20","0000-00-00",345.8,"Canada","Montreal","FedEx Logistics",0,"Unknown","No"
+1015,"Unknown","2024-12-14","2025-07-30",141.77,"Canada","Toronto","FedEx Logistics",228,"Late","No"
+1016,"C017","2025-06-04","2025-07-30",81.51,"Germany","Munich","Kiwilytics Goods Shipping LLC.",56,"Late","Yes"
+1017,"C018","2024-11-07","2025-07-30",145.22,"USA","Chicago","DHL Express",265,"Late","No"
+1018,"C019","2024-12-09","2025-07-30",393.51,"Egypt","Giza","UPS Worldwide",233,"Late","No"
+1019,"C020","2024-11-15","2025-07-30",0.0,"USA","Chicago","DHL Express",257,"Late","No"
+1020,"C021","2025-07-06","2025-08-29",252.94,"UK","Manchester","UPS Worldwide",54,"Late","No"
+1021,"C022","2025-03-18","2025-07-30",234.35,"Canada","Toronto","Aramex International",134,"Late","No"
+1022,"C023","2025-04-28","0000-00-00",13.32,"Egypt","Giza","Aramex International",0,"Unknown","No"
+1023,"C024","2025-07-06","2025-07-30",422.39,"Egypt","Giza","Aramex International",24,"On Time","No"
+1024,"C025","0000-00-00","2025-07-30",432.48,"UK","London","DHL Express",0,"Unknown","No"
+1025,"C026","2025-03-02","2025-07-30",221.0,"Germany","Hamburg","Kiwilytics Goods Shipping LLC.",150,"Late","Yes"
+1026,"C027","2024-08-02","2025-07-30",329.01,"Germany","Munich","UPS Worldwide",362,"Late","Yes"
+1027,"C028","2025-02-15","2025-07-30",157.21,"Canada","Montreal","DHL Express",165,"Late","No"
+1028,"C029","2024-10-12","2025-07-30",350.69,"Germany","Berlin","Aramex International",291,"Late","Yes"
+1029,"C030","2024-09-01","2025-07-30",97.04,"Egypt","Alexandria","FedEx Logistics",332,"Late","No"
+1030,"C001","0000-00-00","2025-07-30",0.0,"UK","London","Aramex International",0,"Unknown","No"
+1031,"C002","2024-10-31","2025-07-30",320.12,"Canada","Montreal","Kiwilytics Goods Shipping LLC.",272,"Late","No"
+1032,"C003","2025-05-05","2025-07-30",393.17,"USA","Houston","Aramex International",86,"Late","No"
+1033,"C004","2025-01-03","2025-07-30",0.0,"Germany","Berlin","Kiwilytics Goods Shipping LLC.",208,"Late","Yes"
+1034,"C005","2025-02-04","0000-00-00",188.86,"Canada","Montreal","FedEx Logistics",0,"Unknown","No"
+1035,"C006","2025-03-02","2025-07-30",107.9,"UK","Liverpool","UPS Worldwide",150,"Late","No"
+1036,"C007","2025-05-20","2025-07-30",98.16,"Canada","Montreal","Aramex International",71,"Late","No"
+1037,"C008","0000-00-00","2025-07-30",23.19,"Germany","Berlin","Kiwilytics Goods Shipping LLC.",0,"Unknown","Yes"
+1038,"C009","2024-10-31","2025-07-30",472.06,"Egypt","Cairo","UPS Worldwide",272,"Late","No"
+1039,"C010","2025-04-24","0000-00-00",400.87,"UK","Liverpool","FedEx Logistics",0,"Unknown","No"
+1040,"C011","2025-01-30","2025-07-30",43.89,"USA","Los Angeles","Kiwilytics Goods Shipping LLC.",181,"Late","No"
+1041,"C012","2025-04-06","2025-07-30",399.57,"UK","Manchester","FedEx Logistics",115,"Late","No"
+1042,"C013","2025-05-02","2025-07-30",78.2,"Canada","Montreal","FedEx Logistics",89,"Late","No"
+1043,"C014","2025-02-05","2025-07-30",133.81,"USA","Chicago","DHL Express",175,"Late","No"
+1044,"C015","2025-01-20","0000-00-00",217.33,"Palestine","Gaza","UPS Worldwide",0,"Unknown","No"
+1044,"C016","2025-06-02","2025-08-05",230.04,"UK","London","DHL Express",64,"Late","No"
+1046,"C017","2024-08-05","2024-09-14",295.3,"Canada","Montreal","FedEx Logistics",40,"Late","No"
+1047,"C018","2024-09-04","2025-07-30",462.51,"USA","Chicago","Kiwilytics Goods Shipping LLC.",329,"Late","No"
+1048,"C019","2024-11-21","0000-00-00",214.97,"UK","London","Aramex International",0,"Unknown","No"
+1049,"C020","2024-10-24","2025-07-30",0.0,"USA","New York","DHL Express",279,"Late","No"
+1050,"C021","2025-01-03","2025-07-30",273.08,"Palestine","Gaza","Aramex International",208,"Late","No"
+1051,"C022","2025-04-24","2025-07-30",51.64,"Egypt","Cairo","DHL Express",97,"Late","No"
+1052,"C023","2024-11-01","2025-07-30",332.22,"Egypt","Alexandria","UPS Worldwide",271,"Late","No"
+1053,"C024","2024-11-25","2025-07-30",327.03,"Palestine","Al Quds","Aramex International",247,"Late","No"
+1054,"C025","2025-04-13","2025-07-30",0.0,"Germany","Munich","DHL Express",108,"Late","Yes"
+1055,"C026","2025-03-12","2025-07-30",483.74,"USA","Houston","FedEx Logistics",140,"Late","No"
+1056,"C027","2024-12-20","2025-07-30",400.15,"Germany","Hamburg","Kiwilytics Goods Shipping LLC.",222,"Late","Yes"
+1057,"C028","2025-01-29","2025-07-30",58.32,"Canada","Toronto","FedEx Logistics",182,"Late","No"
+1058,"C029","2025-03-01","2025-07-30",375.96,"Egypt","Cairo","UPS Worldwide",151,"Late","No"
+1059,"C030","2025-02-21","2025-07-30",346.96,"USA","Chicago","UPS Worldwide",159,"Late","No"
+1060,"C001","2024-12-10","2025-07-30",193.32,"Palestine","Al Quds","DHL Express",232,"Late","No"
+1061,"C002","2025-01-11","2025-07-30",342.98,"UK","London","FedEx Logistics",200,"Late","No"
+1062,"C003","2025-05-15","2025-07-30",83.87,"USA","Chicago","Aramex International",76,"Late","No"
+1063,"C004","2025-02-28","2025-07-30",246.56,"Canada","Vancouver","DHL Express",152,"Late","No"
+1064,"C005","2024-12-05","2025-07-30",461.07,"Palestine","Al Quds","DHL Express",237,"Late","No"
+1065,"C006","2024-12-13","2025-07-30",417.35,"USA","New York","FedEx Logistics",229,"Late","No"
+1066,"Unknown","2025-04-28","2025-07-30",180.68,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",93,"Late","No"
+1067,"C008","2025-01-22","0000-00-00",394.29,"Germany","Munich","UPS Worldwide",0,"Unknown","Yes"
+1068,"C009","2024-11-12","2025-07-30",180.67,"USA","Houston","Aramex International",260,"Late","No"
+1069,"C010","2024-11-26","2025-07-30",363.78,"Canada","Montreal","UPS Worldwide",246,"Late","No"
+1070,"C011","2024-11-04","2025-07-30",42.92,"Palestine","Al Quds","DHL Express",268,"Late","No"
+1071,"C012","2024-10-27","2025-07-30",0.0,"USA","New York","Kiwilytics Goods Shipping LLC.",276,"Late","No"
+1072,"C013","2024-09-14","2025-07-30",327.51,"UK","London","DHL Express",319,"Late","No"
+1073,"C014","2025-05-06","2025-07-30",90.53,"Canada","Unspecified","Kiwilytics Goods Shipping LLC.",85,"Late","No"
+1074,"C015","2024-10-12","2025-07-30",129.52,"Germany","Hamburg","FedEx Logistics",291,"Late","Yes"
+1075,"C016","2024-11-29","2025-07-30",88.47,"Germany","Munich","UPS Worldwide",243,"Late","Yes"
+1076,"C017","2024-09-14","2025-07-30",479.65,"UK","Manchester","DHL Express",319,"Late","No"
+1077,"C018","2025-05-14","2025-07-30",208.47,"Canada","Toronto","Kiwilytics Goods Shipping LLC.",77,"Late","No"
+1078,"C019","2025-02-23","2025-07-30",323.83,"USA","Houston","Kiwilytics Goods Shipping LLC.",157,"Late","No"
+1079,"C020","2025-05-22","2025-07-30",24.3,"Germany","Hamburg","DHL Express",69,"Late","Yes"
+1080,"C021","2025-04-24","2025-06-27",106.69,"Egypt","Cairo","UPS Worldwide",64,"Late","No"
+1081,"C022","2024-10-09","2025-07-30",200.53,"USA","Chicago","FedEx Logistics",294,"Late","No"
+1081,"C023","2024-10-12","2025-07-30",110.83,"USA","Houston","FedEx Logistics",291,"Late","No"
+1083,"C024","2024-10-22","2025-07-30",406.28,"USA","Chicago","Aramex International",281,"Late","No"
+1084,"C025","2025-05-12","2025-07-30",0.0,"Germany","Munich","Aramex International",79,"Late","Yes"
+1085,"C026","2025-02-03","2025-03-23",169.73,"Canada","Toronto","Aramex International",48,"Late","No"
+1086,"C027","2024-11-14","2025-07-30",138.55,"Palestine","Gaza","UPS Worldwide",258,"Late","No"
+1087,"C028","2025-05-07","2025-07-30",268.58,"Canada","Montreal","Aramex International",84,"Late","No"
+1088,"C029","2025-03-15","2025-07-30",302.52,"UK","London","Aramex International",137,"Late","No"
+1089,"C030","2025-05-21","2025-07-30",297.63,"Egypt","Cairo","UPS Worldwide",70,"Late","No"
+1090,"C001","2025-02-18","2025-07-30",424.3,"UK","Manchester","Aramex International",162,"Late","No"
+1091,"C002","2025-03-18","0000-00-00",408.73,"Palestine","Gaza","FedEx Logistics",0,"Unknown","No"
+1092,"C003","2024-11-16","0000-00-00",155.75,"UK","London","DHL Express",0,"Unknown","No"
+1093,"C004","2024-09-07","2025-07-30",51.53,"Germany","Munich","FedEx Logistics",326,"Late","Yes"
+1094,"C005","2025-06-18","2025-07-30",67.75,"Canada","Vancouver","FedEx Logistics",42,"Late","No"
+1095,"C006","2024-10-13","2025-07-30",99.69,"Egypt","Alexandria","Kiwilytics Goods Shipping LLC.",290,"Late","No"
+1096,"C007","2024-11-22","2025-07-30",260.3,"Canada","Vancouver","DHL Express",250,"Late","No"
+1097,"C008","2024-10-26","2025-07-30",77.55,"USA","Chicago","FedEx Logistics",277,"Late","No"
+1098,"C009","2024-12-17","2025-07-30",101.02,"Palestine","Gaza","DHL Express",225,"Late","No"
+1099,"C010","2024-10-07","2025-07-30",349.78,"UK","London","FedEx Logistics",296,"Late","No"
+1100,"C011","0000-00-00","2025-07-30",499.95,"UK","Liverpool","UPS Worldwide",0,"Unknown","No"
+1101,"C012","0000-00-00","2025-07-30",249.92,"USA","Los Angeles","UPS Worldwide",0,"Unknown","No"
+1102,"C013","2024-08-04","2025-07-30",164.14,"USA","New York","Aramex International",360,"Late","No"
+1103,"C014","2025-04-30","2025-07-30",36.27,"UK","Liverpool","UPS Worldwide",91,"Late","No"
+1104,"C015","2025-02-22","0000-00-00",14.7,"Palestine","Gaza","DHL Express",0,"Unknown","No"
+1105,"C016","2024-09-17","2025-07-30",409.46,"Canada","Montreal","Kiwilytics Goods Shipping LLC.",316,"Late","No"
+1106,"C017","2024-11-13","2025-07-30",257.66,"USA","Houston","Aramex International",259,"Late","No"
+1107,"C018","2024-08-16","2025-07-30",345.5,"Germany","Munich","FedEx Logistics",348,"Late","Yes"
+1108,"C019","2024-08-20","2025-07-30",421.55,"Germany","Hamburg","UPS Worldwide",344,"Late","Yes"
+1109,"C020","2025-03-01","2025-07-30",-40.5,"Egypt","Giza","Aramex International",151,"Late","No"
+1110,"C021","2024-11-20","2025-07-30",-153.406040616358,"Palestine","Gaza","UPS Worldwide",252,"Late","No"
+1111,"C022","2025-04-26","2025-07-30",-48.8444662454253,"UK","London","Aramex International",95,"Late","No"
+1112,"C023","2024-09-17","2025-07-30",234.09,"Egypt","Giza","DHL Express",316,"Late","No"
+1113,"C024","2025-04-03","2025-07-30",385.3,"USA","Los Angeles","DHL Express",118,"Late","No"
+1114,"C025","2025-07-02","2025-07-30",65.47,"Palestine","Gaza","FedEx Logistics",28,"On Time","No"
+1115,"C026","2025-05-18","2025-07-30",389.81,"Canada","Toronto","Aramex International",73,"Late","No"
+1116,"C027","2025-02-05","2025-07-30",189.76,"Canada","Toronto","Kiwilytics Goods Shipping LLC.",175,"Late","No"
+1116,"C028","2024-09-07","2025-07-30",30.39,"Palestine","Gaza","DHL Express",326,"Late","No"
+1118,"C029","2025-07-03","2025-07-30",277.71,"Egypt","Cairo","FedEx Logistics",27,"On Time","No"
+1119,"C030","2024-08-03","2025-07-30",60.18,"Egypt","Cairo","Aramex International",361,"Late","No"
+1120,"C001","2025-03-09","2025-07-30",378.16,"Palestine","Gaza","FedEx Logistics",143,"Late","No"
+1121,"C002","0000-00-00","0000-00-00",499.66,"UK","Manchester","DHL Express",0,"Unknown","No"
+1122,"C003","2024-11-17","2025-07-30",180.8,"USA","New York","FedEx Logistics",255,"Late","No"
+1123,"C004","2025-01-28","2025-07-30",225.14,"Egypt","Giza","Aramex International",183,"Late","No"
+1124,"C005","0000-00-00","2025-07-30",390.06,"Egypt","Giza","UPS Worldwide",0,"Unknown","No"
+1125,"C006","2025-01-17","2025-07-30",407.24,"UK","Manchester","Kiwilytics Goods Shipping LLC.",194,"Late","No"
+1126,"C007","2024-12-09","0000-00-00",181.81,"Palestine","Gaza","DHL Express",0,"Unknown","No"
+1127,"C008","2024-10-09","2025-07-30",320.06,"USA","Houston","Aramex International",294,"Late","No"
+1128,"C009","2024-08-18","0000-00-00",78.23,"USA","Houston","Aramex International",0,"Unknown","No"
+1129,"C010","2024-11-05","2025-07-30",111.4,"Canada","Toronto","FedEx Logistics",267,"Late","No"
+1130,"C011","2025-07-30","2025-07-30",-73.409018395802,"Germany","Hamburg","DHL Express",0,"On Time","Yes"
+1131,"C012","2025-06-29","2025-07-30",92.5,"Germany","Berlin","UPS Worldwide",31,"Late","Yes"
+1132,"C013","2025-01-31","2025-07-30",153.39,"USA","New York","UPS Worldwide",180,"Late","No"
+1133,"C014","2024-09-12","2025-07-30",476.67,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",321,"Late","No"
+1134,"C015","2025-06-14","2025-07-30",451.08,"UK","Manchester","Kiwilytics Goods Shipping LLC.",46,"Late","No"
+1135,"C016","2024-08-24","2025-07-30",76.44,"Palestine","Gaza","FedEx Logistics",340,"Late","No"
+1136,"C017","2025-01-01","2025-07-30",211.68,"Egypt","Giza","DHL Express",210,"Late","No"
+1137,"C018","2025-02-05","2025-07-30",0.0,"Germany","Munich","UPS Worldwide",175,"Late","Yes"
+1138,"C019","2024-08-27","2025-07-30",434.38,"USA","Los Angeles","DHL Express",337,"Late","No"
+1139,"C020","2025-03-11","2025-07-30",358.58,"UK","Manchester","FedEx Logistics",141,"Late","No"
+1140,"C021","2025-03-31","2025-07-30",383.12,"Canada","Montreal","DHL Express",121,"Late","No"
+1141,"C022","2025-04-22","2025-07-30",249.83,"Germany","Hamburg","DHL Express",99,"Late","Yes"
+1142,"Unknown","2024-08-19","2025-07-30",141.67,"Egypt","Cairo","DHL Express",345,"Late","No"
+1143,"C024","2024-09-26","2025-07-30",231.48,"Egypt","Alexandria","FedEx Logistics",307,"Late","No"
+1144,"C025","2024-09-25","2025-07-30",441.26,"Canada","Toronto","FedEx Logistics",308,"Late","No"
+1145,"C026","2025-06-10","2025-07-30",262.65,"Egypt","Alexandria","FedEx Logistics",50,"Late","No"
+1146,"Unknown","2025-03-05","2025-07-30",468.8,"UK","London","UPS Worldwide",147,"Late","No"
+1147,"C028","2024-11-24","2025-07-30",475.62,"UK","Manchester","Aramex International",248,"Late","No"
+1148,"C029","0000-00-00","2025-07-30",11.21,"UK","Manchester","DHL Express",0,"Unknown","No"
+1149,"C030","2024-09-01","2025-07-30",369.03,"Egypt","Giza","Kiwilytics Goods Shipping LLC.",332,"Late","No"
+1150,"C001","2024-11-03","2025-07-30",234.64,"USA","Los Angeles","Kiwilytics Goods Shipping LLC.",269,"Late","No"
+1151,"C002","2024-09-14","2025-07-30",185.53,"Canada","Vancouver","Aramex International",319,"Late","No"
+1152,"C003","2025-03-03","0000-00-00",0.0,"Egypt","Alexandria","DHL Express",0,"Unknown","No"
+1153,"C004","0000-00-00","2025-07-30",414.18,"UK","Liverpool","DHL Express",0,"Unknown","No"
+1154,"C005","2025-01-07","2025-07-30",168.2,"Egypt","Giza","DHL Express",204,"Late","No"
+1155,"C006","2025-03-22","2025-07-30",278.18,"USA","Los Angeles","FedEx Logistics",130,"Late","No"
+1156,"C007","2025-03-18","2025-07-30",427.69,"Egypt","Unspecified","UPS Worldwide",134,"Late","No"
+1157,"C008","2025-06-02","2025-07-30",448.14,"Egypt","Giza","FedEx Logistics",58,"Late","No"
+1158,"C009","2025-03-27","0000-00-00",32.51,"Egypt","Giza","DHL Express",0,"Unknown","No"
+1159,"C010","2024-10-25","2025-07-30",419.98,"UK","Unspecified","Aramex International",278,"Late","No"
+1160,"C011","2025-05-27","2025-07-30",0.0,"Germany","Berlin","DHL Express",64,"Late","Yes"
+1161,"C012","2025-02-17","2025-04-04",10.33,"USA","Chicago","DHL Express",46,"Late","No"
+1162,"C013","2024-12-24","2025-07-30",109.14,"Germany","Munich","UPS Worldwide",218,"Late","Yes"
+1163,"C014","0000-00-00","2025-07-30",74.64,"Canada","Montreal","DHL Express",0,"Unknown","No"
+1164,"C015","2025-01-20","2025-07-30",87.9,"Germany","Berlin","FedEx Logistics",191,"Late","Yes"
+1165,"C016","2025-07-17","0000-00-00",144.27,"Canada","Toronto","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1166,"C017","2025-01-17","0000-00-00",132.69,"Canada","Toronto","UPS Worldwide",0,"Unknown","No"
+1167,"C018","2024-11-22","2025-07-30",452.86,"Canada","Toronto","UPS Worldwide",250,"Late","No"
+1168,"C019","2025-06-29","2025-07-30",204.21,"Egypt","Cairo","UPS Worldwide",31,"Late","No"
+1169,"C020","2025-03-15","2025-07-30",352.73,"UK","Liverpool","DHL Express",137,"Late","No"
+1170,"C021","2025-01-12","2025-07-30",331.19,"Canada","Vancouver","UPS Worldwide",199,"Late","No"
+1171,"C022","2024-11-25","2025-07-30",10.53,"UK","Manchester","UPS Worldwide",247,"Late","No"
+1171,"C023","2025-03-07","2025-07-30",75.02,"Germany","Munich","FedEx Logistics",145,"Late","Yes"
+1173,"C024","2025-03-28","2025-07-30",343.19,"USA","New York","Aramex International",124,"Late","No"
+1174,"C025","2024-08-22","2025-07-30",0.0,"Canada","Vancouver","FedEx Logistics",342,"Late","No"
+1175,"C026","2025-03-23","2025-07-30",216.93,"Egypt","Giza","FedEx Logistics",129,"Late","No"
+1176,"C027","2025-05-13","2025-07-30",44.71,"Egypt","Cairo","Aramex International",78,"Late","No"
+1177,"C028","0000-00-00","2025-07-30",368.07,"Egypt","Giza","Aramex International",0,"Unknown","No"
+1178,"C029","2025-05-22","2025-07-30",163.54,"Germany","Munich","UPS Worldwide",69,"Late","Yes"
+1179,"C030","2024-10-18","2025-07-30",77.19,"UK","London","FedEx Logistics",285,"Late","No"
+1180,"C001","2025-03-29","2025-07-30",379.05,"UK","Liverpool","DHL Express",123,"Late","No"
+1181,"C002","2024-10-19","0000-00-00",496.54,"USA","Chicago","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1182,"C003","2024-11-09","2025-07-30",269.95,"USA","Houston","Kiwilytics Goods Shipping LLC.",263,"Late","No"
+1183,"C004","2025-04-12","2025-05-23",-131.753941565772,"USA","Los Angeles","Kiwilytics Goods Shipping LLC.",41,"Late","No"
+1184,"C005","0000-00-00","2025-07-30",114.4,"Germany","Berlin","FedEx Logistics",0,"Unknown","Yes"
+1185,"C006","2024-08-30","2025-07-30",460.75,"Canada","Montreal","Aramex International",334,"Late","No"
+1186,"C007","2024-09-28","2025-07-30",226.77,"Canada","Montreal","UPS Worldwide",305,"Late","No"
+1187,"C008","2024-10-31","0000-00-00",449.33,"Canada","Vancouver","UPS Worldwide",0,"Unknown","No"
+1188,"C009","2024-10-05","0000-00-00",70.35,"Egypt","Giza","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1189,"C010","2025-03-01","2025-07-30",182.25,"USA","New York","UPS Worldwide",151,"Late","No"
+1190,"Unknown","2024-08-28","2025-07-30",397.63,"Egypt","Cairo","DHL Express",336,"Late","No"
+1191,"C012","2024-09-28","2025-07-30",325.86,"Canada","Montreal","DHL Express",305,"Late","No"
+1192,"C013","2024-07-31","2025-07-30",304.49,"USA","Los Angeles","Aramex International",364,"Late","No"
+1193,"C014","0000-00-00","0000-00-00",149.61,"UK","Liverpool","UPS Worldwide",0,"Unknown","No"
+1194,"C015","2025-01-20","2025-07-30",23.14,"UK","Liverpool","FedEx Logistics",191,"Late","No"
+1195,"C016","2025-04-23","2025-07-30",439.16,"UK","Manchester","UPS Worldwide",98,"Late","No"
+1196,"C017","2025-03-17","2025-07-30",307.39,"Egypt","Alexandria","FedEx Logistics",135,"Late","No"
+1197,"C018","2025-01-28","2025-07-30",201.96,"Egypt","Alexandria","Kiwilytics Goods Shipping LLC.",183,"Late","No"
+1197,"C019","2024-11-20","2025-07-30",394.06,"Canada","Vancouver","FedEx Logistics",252,"Late","No"
+1199,"C020","0000-00-00","2025-07-30",127.28,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1200,"C021","2024-10-27","2025-07-30",128.13,"Germany","Hamburg","DHL Express",276,"Late","Yes"
+1201,"C022","2024-11-18","2025-07-30",44.8,"Egypt","Giza","UPS Worldwide",254,"Late","No"
+1202,"C023","2025-04-30","2025-07-30",15.91,"USA","New York","Aramex International",91,"Late","No"
+1203,"C024","2024-11-16","2025-07-30",165.07,"Germany","Hamburg","UPS Worldwide",256,"Late","Yes"
+1204,"C025","2025-04-29","2025-07-30",421.1,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",92,"Late","No"
+1205,"C026","2025-06-28","2025-07-30",277.71,"Germany","Hamburg","UPS Worldwide",32,"Late","Yes"
+1206,"C027","2025-01-22","2025-07-30",-15.0,"UK","Manchester","Aramex International",189,"Late","No"
+1207,"C028","2024-08-26","2025-07-30",45.77,"USA","Houston","Kiwilytics Goods Shipping LLC.",338,"Late","No"
+1208,"C029","2025-04-22","2025-07-30",16.76,"USA","Chicago","Kiwilytics Goods Shipping LLC.",99,"Late","No"
+1209,"C030","2024-10-28","2025-07-30",462.06,"UK","Liverpool","Aramex International",275,"Late","No"
+1210,"C001","2025-07-23","2025-07-30",205.01,"UK","Manchester","UPS Worldwide",7,"On Time","No"
+1210,"C002","2024-11-09","2025-07-30",359.19,"UK","Liverpool","Aramex International",263,"Late","No"
+1212,"C003","0000-00-00","0000-00-00",217.55,"UK","London","FedEx Logistics",0,"Unknown","No"
+1213,"C004","2025-06-02","2025-07-30",323.86,"Canada","Montreal","DHL Express",58,"Late","No"
+1214,"C005","2025-03-29","2025-07-30",84.81,"Canada","Toronto","Aramex International",123,"Late","No"
+1215,"C006","2025-03-16","2025-07-30",48.72,"Germany","Munich","Kiwilytics Goods Shipping LLC.",136,"Late","Yes"
+1216,"C007","2025-04-12","2025-07-30",487.41,"UK","Liverpool","FedEx Logistics",109,"Late","No"
+1217,"C008","2025-06-07","0000-00-00",170.11,"Canada","Montreal","DHL Express",0,"Unknown","No"
+1218,"C009","2025-07-27","2025-07-30",383.98,"USA","Houston","Aramex International",3,"On Time","No"
+1219,"C010","2024-10-14","2025-07-30",325.15,"UK","Manchester","DHL Express",289,"Late","No"
+1220,"C011","2025-01-11","2025-03-12",224.37,"Egypt","Alexandria","UPS Worldwide",60,"Late","No"
+1221,"C012","2024-09-12","2025-07-30",126.93,"Egypt","Giza","Kiwilytics Goods Shipping LLC.",321,"Late","No"
+1222,"C013","2025-02-26","2025-07-30",463.07,"USA","Los Angeles","Aramex International",154,"Late","No"
+1223,"C014","2024-10-25","2025-07-30",310.03,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",278,"Late","No"
+1224,"C015","2025-04-07","2025-07-30",0.0,"Canada","Montreal","FedEx Logistics",114,"Late","No"
+1225,"C016","2024-09-25","2025-07-30",68.53,"Germany","Hamburg","FedEx Logistics",308,"Late","Yes"
+1226,"C017","2025-07-17","2025-07-30",353.73,"Egypt","Giza","DHL Express",13,"On Time","No"
+1227,"C018","2024-11-10","0000-00-00",476.98,"UK","Liverpool","FedEx Logistics",0,"Unknown","No"
+1228,"C019","2025-06-16","0000-00-00",393.66,"UK","London","FedEx Logistics",0,"Unknown","No"
+1229,"C020","2024-09-23","2025-07-30",91.81,"Germany","Berlin","Aramex International",310,"Late","Yes"
+1230,"C021","2024-08-26","0000-00-00",392.75,"UK","London","Kiwilytics Goods Shipping LLC.",0,"Unknown","No"
+1231,"C022","2024-08-22","2025-07-30",444.34,"Egypt","Cairo","DHL Express",342,"Late","No"
+1232,"C023","2024-10-02","2025-07-30",24.38,"UK","Liverpool","FedEx Logistics",301,"Late","No"
+1233,"C024","2025-06-02","2025-07-30",143.27,"Germany","Berlin","Kiwilytics Goods Shipping LLC.",58,"Late","Yes"
+1234,"C025","2024-11-26","2025-07-30",0.0,"UK","Liverpool","UPS Worldwide",246,"Late","No"
+1235,"C026","2025-03-18","2025-07-30",253.11,"USA","Los Angeles","Aramex International",134,"Late","No"
+1236,"C027","2025-05-16","2025-07-30",37.17,"UK","London","FedEx Logistics",75,"Late","No"
+1237,"C028","2025-06-15","2025-07-30",91.77,"UK","Manchester","FedEx Logistics",45,"Late","No"
+1238,"C029","2025-03-08","2025-07-30",388.93,"UK","Manchester","FedEx Logistics",144,"Late","No"
+1239,"C030","2025-07-22","2025-07-30",340.32,"UK","Liverpool","Kiwilytics Goods Shipping LLC.",8,"On Time","No"
+1240,"C001","2024-11-19","2025-07-30",372.98,"UK","Manchester","Aramex International",253,"Late","No"
+1241,"C002","0000-00-00","2025-07-30",0.0,"USA","Houston","Aramex International",0,"Unknown","No"
+1242,"C003","2025-01-16","2025-07-30",241.16,"USA","New York","Kiwilytics Goods Shipping LLC.",195,"Late","No"
+1243,"C004","2024-09-16","2025-07-30",83.54,"Egypt","Cairo","DHL Express",317,"Late","No"
+1244,"C005","2025-01-28","2025-07-30",430.17,"Germany","Berlin","Aramex International",183,"Late","Yes"
